@@ -1,1 +1,1 @@
-shell basics
+This is my directory
